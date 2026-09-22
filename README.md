@@ -95,6 +95,11 @@ The absorber consists of **nested rectangular split-ring resonators**.
 The resonator geometry was parameterized in CST so that the dimensions of the
 rings and their capacitive gaps could be independently controlled.
 
+<p align="center">
+  <img src="images/structure.png" width="700">
+</p>
+
+
 ## Inner Ring
 
 The inner ring is created by subtracting a smaller rectangle from a larger
@@ -262,7 +267,7 @@ array of the proposed unit cell.
 - Electric-field monitor
 
 <p align="center">
-  <img src="Images/floquet-port.png" width="700">
+  <img src="images/floquet ports.png" width="700">
 </p>
 
 ### Floquet-Port / Boundary Setup
@@ -333,7 +338,7 @@ The proposed structure exhibits a strong resonant response around **12 GHz**.
 ## S11 / Reflection Response
 
 <p align="center">
-  <img src="Images/s11.png" width="750">
+  <img src="images/s11.png" width="750">
 </p>
 
 The reflection coefficient reaches a minimum around the designed operating
@@ -364,7 +369,7 @@ frequency.
 # 📉 Reflectance and Absorption
 
 <p align="center">
-  <img src="Images/absorption.png" width="800">
+  <img src="images/Reflectance and Absorption vs Frequency.png" width="800">
 </p>
 
 The simulated absorption reaches approximately:
@@ -388,7 +393,7 @@ This high absorption results from the combination of:
 # 🧲 Surface-Current Distribution
 
 <p align="center">
-  <img src="Images/surface-current.png" width="700">
+  <img src="images/surface current.png" width="700">
 </p>
 
 The surface-current distribution at the resonant frequency shows strong current
@@ -406,7 +411,7 @@ frequency.
 # ⚡ Electric-Field Distribution
 
 <p align="center">
-  <img src="Images/electric-field.png" width="700">
+  <img src="images/efield.png" width="700">
 </p>
 
 The electric-field distribution shows strong field localization around the
