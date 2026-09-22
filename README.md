@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="Images/structure.png" width="500">
+  <img src="images/structure.png" width="500">
 </p>
 
 ## 📌 Overview
